@@ -40,4 +40,4 @@
 | Elian | Aprobado |
 | Renato | Aprobado |
 | Benjamin | Aprobado |
-| Jorge | Badani |
+| Jorge | Aprobado |
