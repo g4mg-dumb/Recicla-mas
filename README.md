@@ -1,85 +1,19 @@
-# ♻️ Recicla+
+# Plantillas
 
-Aplicación móvil y plataforma web desarrolladas para fomentar el reciclaje mediante el reconocimiento de residuos y la ubicación de puntos de reciclaje en la ciudad de Arica.
+Copien estas plantillas al repositorio de su equipo y completen la información.
 
----
+1. [Equipo y roles](01-equipo.md)
+2. [Entrevista o levantamiento](02-entrevista.md)
+3. [Problema](03-problema.md)
+4. [Objetivos y alcance](04-objetivos-y-alcance.md)
+5. [Requisitos](05-requisitos.md)
+6. [Carta Gantt](06-carta-gantt.md)
+7. [Riesgos](07-riesgos.md)
+8. [Acta de reunión](08-acta-reunion.md)
+9. [Registro de pruebas](09-registro-de-pruebas.md)
+10. [Manual de usuario](10-manual-de-usuario.md)
+11. [Registro de uso de IA](11-uso-de-ia.md)
+12. [Guion de presentación](12-guion-presentacion.md)
+13. [Informe semanal](13-informe-semanal.md)
+14. [README del equipo](14-readme-equipo.md)
 
-## 📱 Descripción
-
-Recicla+ busca facilitar el reciclaje a través de una aplicación Android que permite consultar información sobre residuos y encontrar puntos de reciclaje cercanos. Además, cuenta con una plataforma web desarrollada en WordPress para difundir información del proyecto.
-
----
-
-## 🚀 Tecnologías utilizadas
-
-- Android Studio
-- Java
-- WordPress
-- Firebase Firestore
-- Google Maps API
-- Git y GitHub
-
----
-
-## 📌 Estado del proyecto
-
-🟡 En desarrollo
-
----
-
-## 👥 Equipo
-
-| Integrante | Rol |
-|------------|-----|
-| Gabriel Meneses | Líder del proyecto y desarrollador principal |
-| Elian Sepúlveda | Co-líder y diseñador UI/UX |
-| Jorge Badani | Desarrollador |
-| Renato Vásquez | Desarrollador |
-| Benjamín Suárez | Desarrollador |
-
----
-
-## 🎯 Objetivos
-
-- Desarrollar una aplicación móvil para apoyar el reciclaje.
-- Crear una plataforma web informativa.
-- Centralizar la información mediante Firebase.
-- Mostrar puntos de reciclaje utilizando Google Maps.
-- Publicar la aplicación en Google Play Store.
-
----
-
-## 📂 Estructura del proyecto
-
-```
-📁 docs
-📁 prototipo
-📁 database
-📁 presentacion
-📁 evidencias
-```
-
----
-
-## 📄 Documentación
-
-Toda la documentación del proyecto se encuentra en la carpeta `documentation`, donde se incluyen:
-
-- Equipo y roles
-- Entrevistas
-- Objetivos y alcance
-- Requisitos
-- Carta Gantt
-- Riesgos
-- Actas de reunión
-- Registro de pruebas
-- Manual de usuario
-- Registro de uso de IA
-- Guion de presentación
-- Informes semanales
-
----
-
-## 📜 Licencia
-
-Proyecto académico desarrollado para la especialidad de Programación.
