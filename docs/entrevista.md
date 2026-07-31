@@ -1,43 +1,41 @@
-# Equipo de trabajo
+# Entrevista o levantamiento de información
 
-## Proyecto
+## Datos generales
 
-- Nombre provisional:
 - Organización:
 - Fecha:
+- Medio: presencial / videollamada / teléfono / otro
+- Persona entrevistada o rol:
+- Integrantes presentes:
+- Autorización para registrar información: sí / no
 
-## Integrantes y roles
+## Preguntas
 
-| Integrante | Rol principal | Fortalezas | Responsabilidad inicial |
-|---|---|---|---|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+1. ¿Qué proceso desea mejorar?
+2. ¿Cómo se realiza actualmente?
+3. ¿Quiénes participan?
+4. ¿Qué información se registra?
+5. ¿Qué errores o retrasos ocurren?
+6. ¿Con qué frecuencia sucede?
+7. ¿Qué consecuencia produce?
+8. ¿Qué funciones serían útiles?
+9. ¿Quién utilizaría la aplicación?
+10. ¿Existen restricciones o datos que no deben utilizarse?
 
-## Normas internas
+## Resumen de respuestas
 
-- Canal de comunicación:
-- Horario de coordinación:
-- Forma de tomar decisiones:
-- Procedimiento ante inasistencia:
-- Procedimiento ante tareas atrasadas:
 
-## Compromisos
+## Evidencias obtenidas
 
-- [ ] Todos tendrán tareas verificables.
-- [ ] Todos participarán en la presentación.
-- [ ] Se utilizarán issues y pull requests.
-- [ ] Se respetarán los datos de la organización.
-- [ ] Se registrará el uso importante de IA.
 
-## Aprobación del equipo
+## Necesidades principales
 
-| Integrante | Confirmación |
-|---|---|
-| | |
-| | |
-| | |
-| | |
-| | |
+
+## Acuerdos y próximos pasos
+
+
+## Protección de datos
+
+- [ ] Se eliminaron datos personales innecesarios.
+- [ ] Se solicitó autorización para imágenes o documentos.
+- [ ] No se publicarán datos confidenciales.
