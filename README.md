@@ -1,8 +1,8 @@
-# ♻️ Recicla +
+# ♻️ Recicla+
 
 ## Descripción
 
-Recicla Mas es una aplicación móvil desarrollada en Android Studio junto con una plataforma web en WordPress cuyo objetivo es facilitar el reciclaje mediante la identificación de residuos y la localización de puntos de reciclaje en la ciudad de Arica.
+Recicla+ es una aplicación móvil desarrollada en Android Studio junto con una plataforma web en WordPress cuyo objetivo es facilitar el reciclaje mediante la identificación de residuos y la localización de puntos de reciclaje en la ciudad de Arica.
 
 ---
 
