@@ -23,11 +23,11 @@ Recicla Mas es una aplicación móvil desarrollada en Android Studio junto con u
 
 ---
 
-## Equipo
+## Equipo y Roles
 
-- Gabriel Meneses
-- Elian Sepúlveda
-- Jorge Badani
+- Gabriel Meneses | Lider de grupo y programador principal de la App
+- Elian Sepúlveda | Creador de diseños y co-lider
+- Jorge Badani | Pro
 - Renato Vasquez
 - Benjamin Suaréz
 ---
