@@ -1,46 +1,20 @@
-# 6. Prototipo e interfaz
+# Carta Gantt
 
-## Propósito
+| ID | Tarea | Responsable | Inicio | Término | Dependencia | Estado | Evidencia |
+|---|---|---|---|---|---|---|---|
+| 1 | Formar equipo | | | | Ninguna | Pendiente | |
+| 2 | Investigar organización | | | | 1 | Pendiente | |
+| 3 | Formular problema | | | | 2 | Pendiente | |
+| 4 | Definir objetivos y alcance | | | | 3 | Pendiente | |
+| 5 | Levantar requisitos | | | | 3 | Pendiente | |
+| 6 | Crear prototipo | | | | 4, 5 | Pendiente | |
+| 7 | Diseñar base de datos | | | | 5 | Pendiente | |
+| 8 | Configurar proyecto | | | | 6, 7 | Pendiente | |
+| 9 | Implementar CRUD principal | | | | 8 | Pendiente | |
+| 10 | Implementar segunda función | | | | 9 | Pendiente | |
+| 11 | Realizar pruebas | | | | 9, 10 | Pendiente | |
+| 12 | Preparar documentación | | | | 11 | Pendiente | |
+| 13 | Preparar presentación | | | | 11 | Pendiente | |
+| 14 | Ensayar y respaldar | | | | 12, 13 | Pendiente | |
 
-El prototipo permite validar la solución antes de programar.
-
-## Qué debe mostrar
-
-- Pantalla principal.
-- Menú o navegación.
-- Formularios.
-- Listados.
-- Detalles.
-- Edición.
-- Mensajes de éxito y error.
-- Flujo entre pantallas.
-
-## Herramientas posibles
-
-- Figma.
-- Canva.
-- Diapositivas.
-- Dibujos digitales.
-- HTML estático.
-- Bocetos en papel fotografiados con claridad.
-
-## Reglas de diseño
-
-- Mantener consistencia.
-- Usar textos legibles.
-- Evitar exceso de colores.
-- Identificar campos obligatorios.
-- Mostrar acciones principales con claridad.
-- Usar nombres comprensibles para el usuario.
-- Reducir pasos innecesarios.
-
-## Validación
-
-Antes de programar, mostrar el prototipo a un usuario o representante y preguntar:
-
-- ¿Entiende para qué sirve?
-- ¿Encuentra fácilmente las funciones?
-- ¿Falta información?
-- ¿Qué cambiaría?
-
-Registrar las observaciones y decisiones.
+Estados sugeridos: Pendiente, En curso, Bloqueada, En revisión, Terminada.
