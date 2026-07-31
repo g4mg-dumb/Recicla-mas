@@ -10,7 +10,7 @@
 
 | Integrante | Rol principal | Fortalezas | Responsabilidad inicial |
 |---|---|---|---|
-| | | | |
+| Gabriel Meneses | | | |
 | | | | |
 | | | | |
 | | | | |
