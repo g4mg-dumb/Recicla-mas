@@ -26,8 +26,10 @@ Recicla Mas es una aplicación móvil desarrollada en Android Studio junto con u
 ## Equipo
 
 - Gabriel Meneses
-- (Agregar integrantes)
-
+- Elian Sepúlveda
+- Jorge Badani
+- Renato Vasquez
+- Benjamin Suaréz
 ---
 
 ## Objetivos
