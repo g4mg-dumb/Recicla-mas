@@ -10,19 +10,19 @@
 
 | Integrante | Rol principal | Fortalezas | Responsabilidad inicial |
 |---|---|---|---|
-| Gabriel Meneses | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| Gabriel Meneses | Lider y Programador | Organizado y aplicado | Organizar al equipo y desarrollar APP |
+| Renato Vasquez | Programador y TATA IA | Rico y creativo | Aportar con diversas ideas y info con la IA |
+| Elian Sepulveda | CO-lider y diseñador grafico | Rico y creativo | Creación de imegens oficiales y dirigir junto al lider |
+| Jorge Badani | Programador principal | Inteligente y reponsable | Aportar conocimiento programador para apoyar al lider |
+| Benjamin Suarez | Programador y Tester  | Aplicado y buen compañero | Aportar conocimiento programador para apoyar al lider |
 
 ## Normas internas
 
-- Canal de comunicación:
-- Horario de coordinación:
-- Forma de tomar decisiones:
-- Procedimiento ante inasistencia:
-- Procedimiento ante tareas atrasadas:
+- Canal de comunicación: Grupo de instagram y reuniones
+- Horario de coordinación: Día 8 de cada mes
+- Forma de tomar decisiones: Democraticamente
+- Procedimiento ante inasistencia: Reemplazo total dando doble rol a algún integrante
+- Procedimiento ante tareas atrasadas: Enfasis total en los atrasos para igualar nivel
 
 ## Compromisos
 
@@ -36,8 +36,8 @@
 
 | Integrante | Confirmación |
 |---|---|
-| | |
-| | |
-| | |
-| | |
-| | |
+| Gabriel | Aprobado |
+| Elian | Aprobado |
+| Renato | Aprobado |
+| Benjamin | Aprobado |
+| Jorge | Badani |
