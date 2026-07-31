@@ -12,38 +12,38 @@
 ## Preguntas
 
 1. ¿Qué proceso desea mejorar?
-El proceso de identificación y clasificación de residuos reciclables para facilitar su correcta disposición.
+ El proceso de identificación y clasificación de residuos reciclables para facilitar su correcta disposición.
 
 2. ¿Cómo se realiza actualmente?
-Las personas buscan información en internet o utilizan su propio conocimiento, lo que puede generar dudas o errores al momento de reciclar.
+ Las personas buscan información en internet o utilizan su propio conocimiento, lo que puede generar dudas o errores al momento de reciclar.
 
 3. ¿Quiénes participan?
-Estudiantes, docentes y cualquier persona interesada en reciclar correctamente.
+ Estudiantes, docentes y cualquier persona interesada en reciclar correctamente.
 
 4. ¿Qué información se registra?
-Tipo de residuo identificado, categoría de reciclaje correspondiente y recomendaciones sobre cómo desecharlo correctamente.
+ Tipo de residuo identificado, categoría de reciclaje correspondiente y recomendaciones sobre cómo desecharlo correctamente.
 
 5. ¿Qué errores o retrasos ocurren?
-Se confunden los tipos de residuos, algunos materiales terminan en el contenedor equivocado y se pierde tiempo buscando información.
+ Se confunden los tipos de residuos, algunos materiales terminan en el contenedor equivocado y se pierde tiempo buscando información.
 
 6. ¿Con qué frecuencia sucede?
-Con frecuencia, especialmente cuando las personas no conocen la clasificación de ciertos residuos.
+ Con frecuencia, especialmente cuando las personas no conocen la clasificación de ciertos residuos.
 
 7. ¿Qué consecuencia produce?
-Disminuye la efectividad del reciclaje, se contaminan materiales reciclables y se pierde la oportunidad de reutilizar recursos.
+ Disminuye la efectividad del reciclaje, se contaminan materiales reciclables y se pierde la oportunidad de reutilizar recursos.
 
 8. ¿Qué funciones serían útiles?
 
-Reconocimiento de residuos mediante la cámara.
-Información sobre el tipo de reciclaje.
-Consejos para una correcta disposición.
-Interfaz simple y rápida de utilizar.
+ Reconocimiento de residuos mediante la cámara.
+ Información sobre el tipo de reciclaje.
+ Consejos para una correcta disposición.
+ Interfaz simple y rápida de utilizar.
 
 9. ¿Quién utilizaría la aplicación?
-Principalmente estudiantes y docentes, aunque también cualquier persona interesada en aprender a reciclar.
+ Principalmente estudiantes y docentes, aunque también cualquier persona interesada en aprender a reciclar.
 
 10. ¿Existen restricciones o datos que no deben utilizarse?
-No se deben recopilar datos personales innecesarios. Las imágenes capturadas solo se utilizarán para identificar residuos y no para almacenar información personal de los usuarios.
+ No se deben recopilar datos personales innecesarios. Las imágenes capturadas solo se utilizarán para identificar residuos y no para almacenar información personal de los usuarios.
 
 ## Resumen de respuestas
 Se identificó la necesidad de contar con una herramienta que permita reconocer residuos de manera rápida y entregar información clara sobre su correcta clasificación. El objetivo es reducir errores al reciclar y promover buenas prácticas mediante una aplicación sencilla e intuitiva.
