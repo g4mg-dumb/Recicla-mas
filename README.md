@@ -1,6 +1,6 @@
 # Plantillas
 
-Copien estas plantillas al repositorio de su equipo y completen la información.
+
 
 1. [Equipo y roles](01-equipo.md)
 2. [Entrevista o levantamiento](02-entrevista.md)
