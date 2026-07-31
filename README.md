@@ -39,3 +39,28 @@ Recicla Mas es una aplicación móvil desarrollada en Android Studio junto con u
 - Implementar una base de datos centralizada.
 - Mostrar puntos de reciclaje mediante Google Maps.
 - Publicar la aplicación en Google Play Store.
+---
+
+# Estructura del proyecto
+
+```
+📁 app-android
+📁 web-wordpress
+📁 database
+📁 documentation
+📁 assets
+📁 diagrams
+📁 presentations
+```
+
+---
+
+# Arquitectura
+
+WordPress
+⬇
+Firebase Firestore
+⬇
+Android Studio
+⬇
+Google Maps
