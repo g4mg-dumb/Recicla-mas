@@ -1,4 +1,4 @@
-t# Manual de Usuario
+# Manual de Usuario
 
 ## Nombre de la aplicación
 
