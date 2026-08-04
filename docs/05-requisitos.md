@@ -4,7 +4,7 @@
 
 | Código | Requisito | Prioridad | Criterio de aceptación | Responsable |
 |---|---|---|---|---|
-| RF-01 | | Alta | | |
+| RF-01 | Poder escanear objetos y clasificar | Alta | Es la base de la app | |
 | RF-02 | | Alta | | |
 | RF-03 | | Alta | | |
 | RF-04 | | Media | | |
