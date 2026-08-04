@@ -13,14 +13,17 @@
 
 | Código | Requisito | Cómo se comprobará |
 |---|---|---|
-| RNF-01 | | |
-| RNF-02 | | |
-| RNF-03 | | |
+| RNF-01 | Capacitación | Para facilitar el uso del software |
+| RNF-02 | Buen rendimiento | El resultado del escaneo se obtiene en menos de 5 segundos. |
+| RNF-03 | Compatibilidad con Android | La aplicación funciona correctamente en dispositivos con Android 8.0 o superior. |
 
 ## Historias de usuario opcionales
 
-> Como Seremi del Medio Ambiente, queremos que la Aplicación de Recicla+ logre escanear todo tipo de residuas reciclables.
-> Todo esto con el fin de poder expandir las funciones de Recicla+ en la comunidad y lograr mejorar y fomentar el reciclaje en Arica y Chile.
+> Como Seremi del Medio Ambiente, queremos que la Aplicación de Recicla+ logre escanear todo tipo de residuos reciclables y lograr mejorar y fomentar el reciclaje en Arica y Chile.
+>
+> Como ciudadano, quiero escanear un residuo con mi teléfono para saber rápidamente en qué categoría de reciclaje corresponde.
+>
+> Como establecimiento educacional, queremos utilizar Recicla+ para fomentar el reciclaje entre los estudiantes y aumentar la conciencia ambiental.
 
 ## Priorización
 
