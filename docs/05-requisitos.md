@@ -4,11 +4,10 @@
 
 | Código | Requisito | Prioridad | Criterio de aceptación | Responsable |
 |---|---|---|---|---|
-| RF-01 | Poder escanear objetos y clasificar | Alta | Es la base de la app | |
-| RF-02 | | Alta | | |
-| RF-03 | | Alta | | |
+| RF-01 | Poder escanear objetos | Alta | Es la base de la app | |
+| RF-02 | Poder clasificar esos objetos | Alta | De esto depende de si la app funciona o no | |
+| RF-03 | | Media | | |
 | RF-04 | | Media | | |
-| RF-05 | | Media | | |
 
 ## Requisitos no funcionales
 
