@@ -20,7 +20,7 @@
 ## Historias de usuario opcionales
 
 > Como Seremi del Medio Ambiente, queremos que la Aplicación de Recicla+ logre escanear todo tipo de residuas reciclables.
-> Todo esto con el fin de poder expandir las funciones y capacidades de Recicla+ y lograr mejorar el reciclaje en Arica y Chile.
+> Todo esto con el fin de poder expandir las funciones de Recicla+ en la comunidad y lograr mejorar y fomentar el reciclaje en Arica y Chile.
 
 ## Priorización
 
