@@ -12,7 +12,7 @@
 |---|---|---|---|
 | Gabriel Meneses | Lider y Programador | Organizado y aplicado | Organizar al equipo y desarrollar APP |
 | Renato Vasquez | Programador y TATA IA | Rico y creativo | Aportar con diversas ideas y info con la IA |
-| Elian Sepúlveda | CO-lider y diseñador grafico | Rico y creativo | Creación de imagenes oficiales y dirigir junto al lider |
+| Elian Sepúlveda | Co-Lider y diseñador grafico | Rico y creativo | Creación de imagenes oficiales y dirigir junto al lider |
 | Jorge Badani | Programador principal | Inteligente y reponsable | Aportar conocimiento programador para apoyar al lider |
 | Benjamin Suarez | Programador y Tester  | Aplicado y buen compañero | Aportar conocimiento programador para apoyar al lider |
 
