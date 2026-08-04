@@ -1,4 +1,4 @@
-# Manual de Usuario
+t# Manual de Usuario
 
 ## Nombre de la aplicación
 
@@ -73,8 +73,24 @@ Proporciona instrucciones de uso de la aplicación e información general sobre 
 
 ## Capturas
 
-- Pantalla principal.
-- Menú desplegable
-- Resultado del análisis.
-- Información sobre .
-- Cómo se utiliza la aplicación.
+### Pantalla principal.
+<img width="250" height="564" alt="main_menu" src="https://github.com/user-attachments/assets/0d7a2246-2dcb-4476-83d3-d3c7924a984b" />
+
+### Menú desplegable
+<img width="250" height="564" alt="menu_desplegable" src="https://github.com/user-attachments/assets/08a63646-e728-4940-bdd9-fd05b1db4a68" />
+
+### Desarrolladores
+<img width="250" height="564" alt="developers" src="https://github.com/user-attachments/assets/4b2d91b1-d6e2-4670-896a-188a020da66a" />
+
+### Resultado del análisis.
+<img width="250" height="564" alt="resultado" src="https://github.com/user-attachments/assets/abc1b856-e5f4-4855-93df-536708064d4b" />
+
+### Error de análisis.
+<img width="250" height="564" alt="error" src="https://github.com/user-attachments/assets/04a90d61-ae81-4399-8649-c6511102766c" />
+
+### Información sobre.
+<img width="250" height="564" alt="info1" src="https://github.com/user-attachments/assets/24efcfb5-5e40-42d6-bbcd-fc14b758fd98" />
+<img width="250" height="564" alt="info2" src="https://github.com/user-attachments/assets/dc6b0845-3827-4aec-8c81-447e711a5bd5" />
+
+### Cómo se utiliza la aplicación.
+<img width="250" height="564" alt="uso" src="https://github.com/user-attachments/assets/f575a87f-997e-48df-9872-250928bdefd0" />
