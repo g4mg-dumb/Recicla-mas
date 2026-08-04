@@ -4,10 +4,10 @@
 
 | Código | Requisito | Prioridad | Criterio de aceptación | Responsable |
 |---|---|---|---|---|
-| RF-01 | Poder escanear objetos | Alta | Es la base de la app | |
-| RF-02 | Poder clasificar esos objetos | Alta | De esto depende de si la app funciona o no | |
-| RF-03 | Menu de inicio | Media | Para que el cliente tenga un acceso más rapido | |
-| RF-04 | Sección de información en la app | Media | Para que la gente se informe sobre el reciclaje | |
+| RF-01 | Poder escanear objetos | Alta | Es la base de la app | Desarrollador principal |
+| RF-02 | Poder clasificar esos objetos | Alta | De esto depende de si la app funciona o no | Entrenador IA |
+| RF-03 | Menu de inicio | Media | Para que el cliente tenga un acceso más rapido | Desarrollador y Diseñador |
+| RF-04 | Sección de información en la app | Media | Para que la gente se informe sobre el reciclaje | Desarrollador y Diseñador |
 
 ## Requisitos no funcionales
 
