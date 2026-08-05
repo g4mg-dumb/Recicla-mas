@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|---|---|
 | R-01 | Falta de organizacion | Media | Alto | No dejar de decir que hace o que hizo cada uno | Tener una charla sobre el riesgo | El equipo | Abierto |
 | R-02 | confianza con el tiempo | Baja | Alto | No dejar pasar el tiempo | Trabajar el doble para compensar | El equipo | Abierto |
-| R-03 |  | | | | | | |
+| R-03 | Incompatibilidad de dispositivos | Media | Alto | Testear en diferentes dispositivos | Actualizar el codigo | El equipo | Abierto |
 
 ## Riesgos que deben considerar
 
