@@ -9,10 +9,10 @@
 Integracion de nueva version.
 
 ## Dificultades
-Falta de ideas.
+
 
 ## Decisiones
-Mejorar a la app.
+Actualizar a la app añadiendo mas funciones .
 
 ## Tareas nuevas
 
