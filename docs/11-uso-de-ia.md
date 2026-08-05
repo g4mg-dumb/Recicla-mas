@@ -2,7 +2,7 @@
 
 | Fecha | Herramienta | Uso | Resultado | Modificaciones del equipo | Verificación | Responsable |
 |---|---|---|---|---|---|---|
-| ? |  Teclable Machine  | Para detectar residuos | Efectivo | Ninguno | | Renato Vasquez |
+| 14/05/2026 |  Teclable Machine  | Para detectar residuos | Efectivo | Ninguno | Detecto la clasificacion de reciduos | Renato Vasquez |
 
 ## Reflexión final
 
