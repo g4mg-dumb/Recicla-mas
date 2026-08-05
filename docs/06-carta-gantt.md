@@ -10,8 +10,8 @@
 | 6 | Crear prototipo | Jorge Badani | Fines de Mayo | Fin de año | 4, 5 | En curso | |
 | 7 | Diseñar base de datos | Gabriel Meneses | 04/08/2026 | Fin de año | 5 | Pendiente | |
 | 8 | Configurar proyecto | Gabriel y Jorge | Inicios de Mayo | Fin de año | 6, 7 | En curso | |
-| 9 | Implementar CRUD principal | Renato y Benjamin | | Fin de año | 8 | Pendiente | |
-| 10 | Implementar segunda función | Gabriel Meneses |  | Fines de Mayo | 9 | Terminada. | |
+| 9 | Implementar CRUD principal | Renato y Benjamin | Fines de Mayo | Fin de año | 8 | Pendiente | |
+| 10 | Implementar segunda función | Gabriel Meneses | Fines de Agosto | Fines de Mayo | 9 | Terminada. | |
 | 11 | Realizar pruebas | Gabriel y Jorge | Inicios de Mayo | Fin de año | 9, 10 | En curso | |
 | 12 | Preparar documentación | Gabriel y Elian | Fines de Mayo | Fin de año | 11 | En curso | |
 | 13 | Preparar presentación | Gabriel y Elian | Inicios de Junio | Fin de año | 11 | En curso | |
