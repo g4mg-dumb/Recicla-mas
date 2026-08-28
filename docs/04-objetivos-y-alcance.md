@@ -2,7 +2,7 @@
 
 ## Objetivo general
 
-Desarrollar una aplicación móvil para Android que, mediante el apoyo de inteligencia artificial, identifique y clasifique residuos, localice puntos de reciclaje cercanos y genere consciencia a la comunidad en hábitos sostenibles, con el fin de fomentar la cultura ambiental y optimizar la gestión local de desechos.
+Desarrollar una aplicación móvil para Android que, mediante el apoyo de inteligencia artificial, identifique y clasifique residuos, localice puntos de reciclaje cercanos, con el fin de fomentar la cultura ambiental en la comunidad escolar.
 
 ## Objetivos específicos
 
