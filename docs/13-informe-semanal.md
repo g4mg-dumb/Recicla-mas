@@ -120,6 +120,30 @@ Finalmente, se estableció como resultado esperado contar al **27/10/2026** con 
 
 ---
 
+# Semana 4
+- **Equipo:** Recicla+
+- **Semana:** 4
+- **Fecha:** 24 al 28 de agosto
+## Compromisos de la semana anterior
+| Compromiso | Responsable | Estado | Evidencia |
+|---|---|---|---|
+| | | | |
+## Avances demostrables
+## Bloqueos
+## Decisiones
+## Tareas para la próxima semana
+| Tarea | Responsable | Prioridad | Issue | Fecha |
+|---|---|---|---|---|
+| | | | | |
+## Estado del equipo
+- Verde: en plazo.
+- Amarillo: riesgo de atraso.
+- Rojo: requiere intervención.
+- 
+**Estado actual:**
+  
+--- 
+
 # Semana 5
 
 - **Equipo:** Recicla+
