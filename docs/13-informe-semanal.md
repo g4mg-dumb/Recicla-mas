@@ -15,7 +15,6 @@
 | Implementar un CRUD en el proyecto | Equipo de Desarrollo | Completado | (Integrado en la app) |
 | Investigar e implementar la visualización de puntos de reciclaje | Equipo de Desarrollo | Pendiente | - - - |
 
-## Avances demostrables
 
 ## Avances demostrables
 
