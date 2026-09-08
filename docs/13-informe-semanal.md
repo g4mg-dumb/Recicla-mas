@@ -118,28 +118,58 @@ Finalmente, se estableció como resultado esperado contar al **27/10/2026** con 
 **Estado actual: Verde**
 
 ---
-
 # Semana 4
-- **Equipo:** Recicla+
-- **Semana:** 4
-- **Fecha:** 24 al 28 de agosto
+
+* **Equipo:** Recicla+
+* **Semana:** 4
+* **Fecha:** 24 al 28 de agosto
+
 ## Compromisos de la semana anterior
-| Compromiso | Responsable | Estado | Evidencia |
-|---|---|---|---|
-| | | | |
+
+| Compromiso                                                                         | Responsable     | Estado     | Evidencia                                                                                          |
+| ---------------------------------------------------------------------------------- | --------------- | ---------- | -------------------------------------------------------------------------------------------------- |
+| Investigar y solucionar el problema de instalación de la APK en dispositivos Redmi. | Equipo Recicla+ | En proceso | --- |
+| Probar la aplicación en otros dispositivos Android.                                 | Equipo Recicla+ | En proceso | --- |
+| Investigar e implementar la visualización de puntos de reciclaje.                   | Equipo Recicla+ | En proceso | --- |
+
 ## Avances demostrables
+
+* El equipo participó en **Explora**, dentro del Congreso Regional, donde se presentaron y compitieron diferentes proyectos.
+* **Recicla+ obtuvo el primer puesto** en la competencia regional.
+* El proyecto se encuentra próximo a competir por el **4C**, con la posibilidad de avanzar al **Congreso Nacional**.
+* Se realizaron pequeñas mejoras en la interfaz de la aplicación.
+* Se logró comprobar que la aplicación funciona correctamente utilizando **dictado por Google**, lo que permite mejorar la accesibilidad para personas con ceguera o dificultades visuales.
+
 ## Bloqueos
+
+* El desarrollo de la interfaz avanzó poco durante esta semana debido al tiempo dedicado a la participación en el Congreso Regional.
+* Aún quedan aspectos de la aplicación que deben ser mejorados y probados antes de presentar la versión final.
+
 ## Decisiones
+
+* Continuar con el desarrollo y mejora de la aplicación.
+* Implementar de apoco nuevas fuciones en la App.
+* Enfocar los próximos avances en mejorar  y preparar el proyecto para la siguiente etapa de competencia.
+
 ## Tareas para la próxima semana
-| Tarea | Responsable | Prioridad | Issue | Fecha |
-|---|---|---|---|---|
-| | | | | |
+
+| Tarea                                                                    | Responsable     | Prioridad | Issue                    | Fecha          |
+| ------------------------------------------------------------------------ | --------------- | --------- | ------------------------ | -------------- |
+| Investigar y solucionar el problema de instalación de la APK en dispositivos Redmi.  | Equipo Recicla+ | Alta      | #1           | Próxima semana |
+| Probar la aplicación en otros dispositivos Android.                                  | Equipo Recicla+ | Alta      | #2           | Próxima semana |
+| Preparar el proyecto para la competencia 4C.                                         | Equipo Recicla+ | Alta      | #3           | Próxima semana |
+| Continuar preparando la presentación del proyecto y sus funcionalidades.             | Equipo Recicla+ | Media     | #4           | Próxima semana |
+
 ## Estado del equipo
-- Verde: en plazo.
-- Amarillo: riesgo de atraso.
-- Rojo: requiere intervención.
-- 
-**Estado actual:**
+
+* Verde: en plazo.
+* Amarillo: riesgo de atraso.
+* Rojo: requiere intervención.
+
+**Estado actual: 🟢 Verde**
+
+El equipo se encuentra en plazo y con un avance importante gracias al **primer puesto obtenido en el Congreso Regional**. Aunque el desarrollo de la aplicación tuvo pocos avances durante esta semana, se logró comprobar una función importante de accesibilidad mediante dictado por Google. El principal objetivo para la próxima semana será avanzar en la Pagina Web de la App y preparar el proyecto para la competencia 4C.
+
   
 --- 
 
