@@ -1,0 +1,34 @@
+Guía Técnica: Base de Datos y CRUD en Recicla+
+Este documento explica cómo funciona el sistema de almacenamiento de datos de la aplicación, ideal para entender la arquitectura interna y responder preguntas técnicas durante una presentación.
+1. ¿Qué tecnología usamos?
+Implementamos SQLite, que es un motor de base de datos relacional ligero e integrado directamente en el sistema Android.
+Note
+A diferencia de una base de datos en la nube (que requiere internet), SQLite guarda los datos localmente en un archivo dentro del teléfono, lo que hace que la app sea rápida y funcione sin conexión.
+2. El Ciclo CRUD
+CRUD es el acrónimo de las cuatro operaciones básicas que puede realizar nuestra base de datos:
+1.
+C (Create / Crear): Cuando la cámara identifica un residuo, llamamos a insertRecord(). Esto crea una nueva "fila" en nuestra tabla con el nombre del material, el contenedor y la fecha actual.
+2.
+R (Read / Leer): Al abrir la pantalla de historial, ejecutamos getAllRecords(). Esto recupera toda la lista de la base de datos para mostrarla en pantalla.
+3.
+U (Update / Actualizar): Si el usuario toca el icono del lápiz ✏️, usamos updateNote(). Esta función busca el registro por su ID y cambia únicamente el texto de la nota personal.
+4.
+D (Delete / Borrar): Al tocar la papelera 🗑️, ejecutamos deleteRecord(). Esto elimina permanentemente esa fila del archivo de la base de datos.
+3. Arquitectura del Código
+Usamos una clase especial llamada DatabaseHelper.kt que actúa como el "capataz" de los datos:
+•
+Estructura de la Tabla (onCreate): Definimos que cada registro tiene un ID único (como un DNI), el material, el contenedor, la fecha y una nota.
+•
+Manejo de Versiones (onUpgrade): Si en el futuro añadimos más columnas (como la ubicación GPS), esta función se encarga de actualizar la base de datos sin romper la app.
+4. Persistencia: ¿Se borran los datos al cerrar la app?
+No. Los datos se guardan en un archivo llamado recicla_history.db ubicado en la carpeta protegida de la aplicación (/data/data/com.example.recicla/databases/).
+•
+Si cierras la app: Los datos siguen ahí.
+•
+Si apagas el celular: Los datos siguen ahí.
+•
+Si actualizas la app: Los datos siguen ahí.
+•
+Solo se borran si el usuario desinstala la aplicación o borra manualmente el almacenamiento desde los ajustes del teléfono.
+Mensaje para tu presentación:
+"Para garantizar que el usuario pueda llevar un registro de su impacto ambiental, hemos implementado una arquitectura de persistencia basada en SQLite. Esto nos permite gestionar un ciclo CRUD completo, asegurando que la información se guarde de forma eficiente, segura y permanente en el dispositivo, incluso si la aplicación se cierra o el dispositivo se reinicia."
