@@ -1,0 +1,116 @@
+================================================================================
+           RESUMEN TÉCNICO DE PROGRAMACIÓN - PROYECTO: RECICLA+
+================================================================================
+
+1. DESCRIPCIÓN GENERAL
+--------------------------------------------------------------------------------
+Recicla+ es una aplicación nativa para Android diseñada para fomentar el
+reciclaje mediante Inteligencia Artificial. Permite identificar materiales
+a través de la cámara, aprender sobre su correcta disposición y llevar un
+historial de los escaneos realizados.
+
+
+2. ARQUITECTURA Y TECNOLOGÍAS
+--------------------------------------------------------------------------------
+* Lenguaje: Kotlin (Moderno, seguro y conciso).
+* UI Framework: Jetpack Compose (Declarativo, basado en funciones @Composable).
+* Design System: Material Design 3 (Google).
+* Inteligencia Artificial: TensorFlow Lite (TFLite) con un modelo unquantized.
+* Persistencia: SQLite (Base de datos local).
+* Navegación: Jetpack Navigation Compose.
+* Gestión de Imágenes: Coil (Librería para carga eficiente de bitmaps).
+
+
+3. ESTRUCTURA DE CARPETAS (ORDEN JERÁRQUICO)
+--------------------------------------------------------------------------------
+
+[ Carpeta: app/src/main/java/com/example/recicla ]
+Contiene toda la lógica de negocio y los componentes visuales.
+
+   - /ui/theme/: Contiene la identidad visual.
+     - Color.kt: Definición de la paleta de colores (Verdes, Azules, Amarillos).
+     - Theme.kt: Configuración del tema (Claro/Oscuro) y la tipografía.
+     - Type.kt: Estilos de texto (Headline, Body, Label).
+
+[ Carpeta: app/src/main/res ]
+Recursos estáticos de la aplicación.
+
+   - /drawable/: Imágenes, logos (app_logo.png) y fondos vectoriales.
+   - /values/:
+     - strings.xml: Centraliza todos los textos. FACILITA LA TRADUCCIÓN.
+     - themes.xml: Configuración del Splash Screen (pantalla de carga inicial).
+   - /xml/: Configuración del sistema (reglas de backup).
+
+[ Carpeta: app/src/main/assets ]
+Contiene el archivo 'model_unquant.tflite' (el cerebro de la IA) y
+'labels.txt' (la lista de materiales que la app sabe reconocer).
+
+
+
+4. DESCRIPCIÓN DE ARCHIVOS CLAVE (BASE DEL CÓDIGO)
+--------------------------------------------------------------------------------
+
+1. MainActivity.kt (El Director de Orquesta)
+   - Es el punto de entrada. Configura el NavHost (sistema de rutas).
+   - Gestiona permisos de cámara.
+   - Controla estados globales como el Tema (Oscuro/Claro) y si el tutorial
+     debe mostrarse al inicio mediante SharedPreferences.
+
+2. ImageClassifierHelper.kt (El Cerebro IA)
+   - Carga el modelo TensorFlow Lite desde la carpeta assets.
+   - Toma una foto (Bitmap), la redimensiona a 224x224 píxeles y la normaliza.
+   - Compara la foto con el modelo y devuelve una lista de probabilidades
+     (ej: Plástico 95%, Papel 2%).
+
+3. DatabaseHelper.kt (La Memoria)
+   - Crea y gestiona una base de datos SQLite llamada 'recicla_history.db'.
+   - Permite guardar cada escaneo con fecha, material y tipo de contenedor.
+   - Incluye funciones CRUD: insertRecord, getAllRecords y deleteRecord.
+
+4. MainScreen.kt (La Cara de la App)
+   - Menú principal con acceso a Escáner, Información y Puntos de Almacenaje.
+   - Incluye un 'NavigationDrawer' (menú lateral) con contactos y redes sociales.
+   - Muestra consejos dinámicos en la parte inferior.
+
+5. ResultScreen.kt (La Respuesta)
+   - Muestra la foto que el usuario acaba de tomar.
+   - Identifica el material y asigna automáticamente el color del contenedor
+     correspondiente (Amarillo, Azul, Verde, etc.).
+   - Ofrece instrucciones específicas sobre cómo limpiar o preparar el residuo.
+
+6. SettingsScreen.kt (Personalización)
+   - Interruptores para activar/desactivar el modo oscuro.
+   - Opción para limpiar la caché de imágenes (ahorro de espacio).
+   - Nuevo interruptor para decidir si mostrar o no el tutorial al iniciar.
+
+7. PointsScreen.kt (Puntos de Almacenaje)
+   - Sección informativa sobre dónde se encuentran los depósitos.
+   - Actualmente renombrado a "Puntos de Almacenaje" para reflejar el proceso
+     de recolección previa al reciclaje final.
+
+8. HowToUseScreen.kt (Tutorial)
+   - Guía visual paso a paso para un escaneo perfecto.
+   - Crucial para que los nuevos usuarios entiendan cómo enfocar el objeto.
+
+
+
+5. FLUJO LÓGICO DE LA APLICACIÓN
+--------------------------------------------------------------------------------
+ENTRADA (MainActivity) -> ¿Tutorial activo? (HowToUse) -> MENÚ (MainScreen)
+-> CÁMARA -> PROCESAMIENTO (TFLite) -> GUARDADO (SQLite) -> RESULTADO (ResultScreen)
+
+
+
+6. MANTENIMIENTO Y ESCALABILIDAD
+--------------------------------------------------------------------------------
+* Agregar Materiales: Si la IA aprende a reconocer un nuevo material, solo debes
+  actualizar el bloque 'when' en la función 'getRecyclingInfo' dentro de
+  MainActivity.kt para asignar las instrucciones y colores.
+* Actualizar Base de Datos: Si agregas campos a la base de datos, incrementa
+  'DATABASE_VERSION' en DatabaseHelper.kt para evitar errores en los usuarios.
+* Rendimiento: La app guarda las fotos en caché. La función de limpieza en
+  SettingsScreen asegura que el teléfono no se llene de archivos temporales.
+
+================================================================================
+                      FIN DEL DOCUMENTO TÉCNICO - RECICLA+
+================================================================================
