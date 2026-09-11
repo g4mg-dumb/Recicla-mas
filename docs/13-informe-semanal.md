@@ -1,4 +1,4 @@
-# Informe semanal — Recicla+  
+# Informe semanal — Recicla+
 
 ## Semana 1 y 2
 
@@ -10,11 +10,10 @@
 
 | Compromiso | Responsable | Estado | Evidencia |
 |---|---|---|---|
-| Desarrollar barra de búsqueda de materiales | Equipo de Desarrollo | Completado | (Integrado en la app) |
-| Agregar opción para escoger entre tema oscuro y claro | Equipo de Desarrollo | Completado | (Integrado en la app) |
-| Implementar un CRUD en el proyecto | Equipo de Desarrollo | Completado | (Integrado en la app) |
-| Investigar e implementar la visualización de puntos de reciclaje | Equipo de Desarrollo | Pendiente | - - - |
-
+| Desarrollar barra de búsqueda de materiales | Equipo Recicla+ | Completado | Integrado en la app |
+| Agregar opción para escoger entre tema oscuro y claro | Equipo Recicla+ | Completado | Integrado en la app |
+| Implementar un CRUD en el proyecto | Equipo Recicla+ | Completado | Integrado en la app |
+| Investigar e implementar la visualización de puntos de reciclaje | Equipo Recicla+ | Pendiente | - - - |
 
 ## Avances demostrables
 
@@ -25,7 +24,6 @@ Durante la primera semana, con el equipo de trabajo ya conformado, se organizaro
 Durante la segunda semana, el equipo se enfocó en investigar y validar una problemática relacionada con el reciclaje dentro de la comunidad escolar. A partir de la investigación realizada, se identificó que **la comunidad escolar presenta un bajo conocimiento sobre el reciclaje, provocando una clasificación incorrecta de los residuos. Además, no existe una herramienta rápida y sencilla que ayude a identificar cómo reciclar cada material.**
 
 Esta problemática permitió establecer una base para el desarrollo de **Recicla+**, orientando el proyecto hacia la creación de una herramienta que facilite la identificación de residuos y entregue información que ayude a mejorar su correcta clasificación y fomentar hábitos de reciclaje dentro de la comunidad escolar.
-
 
 ## Bloqueos
 
@@ -44,8 +42,8 @@ Esta problemática permitió establecer una base para el desarrollo de **Recicla
 
 | Tarea | Responsable | Prioridad | Issue | Fecha |
 |---|---|---|---|---|
-| Investigar y solucionar el problema de instalación de la APK en dispositivos Redmi. | Equipo de Desarrollo | Media | #1 | 10-14 de agosto |
-| Probar la aplicación en otros dispositivos Android. | Equipo de Desarrollo | Media | #2 |  10-14 de agosto |
+| Investigar y solucionar el problema de instalación de la APK en dispositivos Redmi | Equipo Recicla+ | Media | #1 | 10-14 de agosto |
+| Probar la aplicación en otros dispositivos Android | Equipo Recicla+ | Media | #2 | 10-14 de agosto |
 
 ## Estado del equipo
 
@@ -53,8 +51,9 @@ Esta problemática permitió establecer una base para el desarrollo de **Recicla
 - Amarillo: riesgo de atraso.
 - Rojo: requiere intervención.
 
-**Estado actual: Verde**
+**Estado actual: 🟢 Verde**
 
+El equipo se encuentra en plazo y logró avanzar en la organización del proyecto, la definición de la problemática y la implementación de las primeras funcionalidades de Recicla+. Quedaron pendientes las pruebas de compatibilidad y la visualización de los puntos de reciclaje.
 
 ---
 
@@ -70,9 +69,9 @@ Esta problemática permitió establecer una base para el desarrollo de **Recicla
 
 | Compromiso | Responsable | Estado | Evidencia |
 |---|---|---|---|
-| Investigar y solucionar el problema de instalación de la APK en dispositivos Redmi. | Equipo de Desarrollo | Pendiente | - - - |
-| Probar la aplicación en otros dispositivos Android. | Equipo de Desarrollo | Pendiente | - - - |
-| Investigar e implementar la visualización de puntos de reciclaje | Equipo de Desarrollo | Pendiente | - - - |
+| Investigar y solucionar el problema de instalación de la APK en dispositivos Redmi | Equipo Recicla+ | Pendiente | - - - |
+| Probar la aplicación en otros dispositivos Android | Equipo Recicla+ | Pendiente | - - - |
+| Investigar e implementar la visualización de puntos de reciclaje | Equipo Recicla+ | Pendiente | - - - |
 
 ## Avances demostrables
 
@@ -87,7 +86,6 @@ Además, se identificaron los principales **beneficiarios del proyecto**, consid
 En cuanto al **alcance**, se definieron las funcionalidades que estarán incluidas en el proyecto, como la identificación de residuos mediante la cámara del teléfono, su clasificación mediante inteligencia artificial sin conexión a Internet, la entrega de información sobre reciclaje y el desarrollo de una interfaz sencilla e intuitiva. También se establecieron elementos que no forman parte del proyecto, como la compatibilidad con iOS, la creación de cuentas de usuario y funciones avanzadas como estadísticas personalizadas o recompensas.
 
 Finalmente, se estableció como resultado esperado contar al **27/10/2026** con una versión estable de Recicla+, preparada para su publicación y utilización por la comunidad escolar. También se definieron indicadores de logro para comprobar el funcionamiento de la aplicación, incluyendo pruebas de identificación de residuos, funcionamiento de la IA sin conexión y verificación de la información entregada al usuario.
-
 
 ## Bloqueos
 
@@ -105,9 +103,9 @@ Finalmente, se estableció como resultado esperado contar al **27/10/2026** con 
 
 | Tarea | Responsable | Prioridad | Issue | Fecha |
 |---|---|---|---|---|
-| Investigar y solucionar el problema de instalación de la APK en dispositivos Redmi. | Equipo de Desarrollo | Media | #1 | 24 a 28 de agosto |
-| Probar la aplicación en otros dispositivos Android | Equipo de Desarrollo | Media | #2 |  24 a 28 de agosto |
-| Investigar e implementar la visualización de puntos de reciclaje | Equipo de Desarrollo | Media | #3 | 24 a 28 de agosto |
+| Investigar y solucionar el problema de instalación de la APK en dispositivos Redmi | Equipo Recicla+ | Media | #1 | 24-28 de agosto |
+| Probar la aplicación en otros dispositivos Android | Equipo Recicla+ | Media | #2 | 24-28 de agosto |
+| Investigar e implementar la visualización de puntos de reciclaje | Equipo Recicla+ | Media | #3 | 24-28 de agosto |
 
 ## Estado del equipo
 
@@ -115,63 +113,65 @@ Finalmente, se estableció como resultado esperado contar al **27/10/2026** con 
 - Amarillo: riesgo de atraso.
 - Rojo: requiere intervención.
 
-**Estado actual: Verde**
+**Estado actual: 🟢 Verde**
+
+El equipo se encuentra en plazo y logró completar el documento de objetivos, alcance y requisitos de Recicla+, estableciendo una base clara para continuar con el desarrollo del proyecto. Se mantienen pendientes algunas pruebas y funcionalidades.
 
 ---
+
 # Semana 4
 
-* **Equipo:** Recicla+
-* **Semana:** 4
-* **Fecha:** 24 al 28 de agosto
+- **Equipo:** Recicla+
+- **Semana:** 4
+- **Fecha:** 24 al 28 de agosto
 
 ## Compromisos de la semana anterior
 
-| Compromiso                                                                         | Responsable     | Estado     | Evidencia                                                                                          |
-| ---------------------------------------------------------------------------------- | --------------- | ---------- | -------------------------------------------------------------------------------------------------- |
-| Investigar y solucionar el problema de instalación de la APK en dispositivos Redmi. | Equipo Recicla+ | En proceso | --- |
-| Probar la aplicación en otros dispositivos Android.                                 | Equipo Recicla+ | En proceso | --- |
-| Investigar e implementar la visualización de puntos de reciclaje.                   | Equipo Recicla+ | En proceso | --- |
+| Compromiso | Responsable | Estado | Evidencia |
+|---|---|---|---|
+| Investigar y solucionar el problema de instalación de la APK en dispositivos Redmi | Equipo Recicla+ | En proceso | --- |
+| Probar la aplicación en otros dispositivos Android | Equipo Recicla+ | En proceso | --- |
+| Investigar e implementar la visualización de puntos de reciclaje | Equipo Recicla+ | En proceso | --- |
 
 ## Avances demostrables
 
-* El equipo participó en **Explora**, dentro del Congreso Regional, donde se presentaron y compitieron diferentes proyectos.
-* **Recicla+ obtuvo el primer puesto** en la competencia regional.
-* El proyecto se encuentra próximo a competir por el **4C**, con la posibilidad de avanzar al **Congreso Nacional**.
-* Se realizaron pequeñas mejoras en la interfaz de la aplicación.
-* Se logró comprobar que la aplicación funciona correctamente utilizando **dictado por Google**, lo que permite mejorar la accesibilidad para personas con ceguera o dificultades visuales.
+- El equipo participó en **Explora**, dentro del Congreso Regional, donde se presentaron y compitieron diferentes proyectos.
+- **Recicla+ obtuvo el primer puesto** en la competencia regional.
+- El proyecto se encuentra próximo a competir por el **4C**, con la posibilidad de avanzar al **Congreso Nacional**.
+- Se realizaron pequeñas mejoras en la interfaz de la aplicación.
+- Se logró comprobar que la aplicación funciona correctamente utilizando **dictado por Google**, lo que permite mejorar la accesibilidad para personas con ceguera o dificultades visuales.
 
 ## Bloqueos
 
-* El desarrollo de la interfaz avanzó poco durante esta semana debido al tiempo dedicado a la participación en el Congreso Regional.
-* Aún quedan aspectos de la aplicación que deben ser mejorados y probados antes de presentar la versión final.
+- El desarrollo de la interfaz avanzó poco durante esta semana debido al tiempo dedicado a la participación en el Congreso Regional.
+- Aún quedan aspectos de la aplicación que deben ser mejorados y probados antes de presentar la versión final.
 
 ## Decisiones
 
-* Continuar con el desarrollo y mejora de la aplicación.
-* Implementar de apoco nuevas fuciones en la App.
-* Enfocar los próximos avances en mejorar  y preparar el proyecto para la siguiente etapa de competencia.
+- Continuar con el desarrollo y mejora de la aplicación.
+- Implementar de a poco nuevas funciones en la App.
+- Enfocar los próximos avances en mejorar y preparar el proyecto para la siguiente etapa de competencia.
 
 ## Tareas para la próxima semana
 
-| Tarea                                                                    | Responsable     | Prioridad | Issue                    | Fecha          |
-| ------------------------------------------------------------------------ | --------------- | --------- | ------------------------ | -------------- |
-| Investigar y solucionar el problema de instalación de la APK en dispositivos Redmi.  | Equipo Recicla+ | Alta      | #1           | Próxima semana |
-| Probar la aplicación en otros dispositivos Android.                                  | Equipo Recicla+ | Alta      | #2           | Próxima semana |
-| Preparar el proyecto para la competencia 4C.                                         | Equipo Recicla+ | Alta      | #3           | Próxima semana |
-| Continuar preparando la presentación del proyecto y sus funcionalidades.             | Equipo Recicla+ | Media     | #4           | Próxima semana |
+| Tarea | Responsable | Prioridad | Issue | Fecha |
+|---|---|---|---|---|
+| Investigar y solucionar el problema de instalación de la APK en dispositivos Redmi | Equipo Recicla+ | Media | #1 | Próxima semana |
+| Probar la aplicación en otros dispositivos Android | Equipo Recicla+ | Media | #2 | Próxima semana |
+| Preparar el proyecto para la competencia 4C | Equipo Recicla+ | Alta | #4 | Próxima semana |
+| Continuar preparando la presentación del proyecto y sus funcionalidades | Equipo Recicla+ | Media | #4 | Próxima semana |
 
 ## Estado del equipo
 
-* Verde: en plazo.
-* Amarillo: riesgo de atraso.
-* Rojo: requiere intervención.
+- Verde: en plazo.
+- Amarillo: riesgo de atraso.
+- Rojo: requiere intervención.
 
 **Estado actual: 🟢 Verde**
 
-El equipo se encuentra en plazo y con un avance importante gracias al **primer puesto obtenido en el Congreso Regional**. Aunque el desarrollo de la aplicación tuvo pocos avances durante esta semana, se logró comprobar una función importante de accesibilidad mediante dictado por Google. El principal objetivo para la próxima semana será avanzar en la Pagina Web de la App y preparar el proyecto para la competencia 4C.
+El equipo se encuentra en plazo y con un avance importante gracias al **primer puesto obtenido en el Congreso Regional**. Aunque el desarrollo de la aplicación tuvo pocos avances durante esta semana, se logró comprobar una función importante de accesibilidad mediante dictado por Google. El principal objetivo para la próxima semana será avanzar en la Página Web de la App y preparar el proyecto para la competencia 4C.
 
-  
---- 
+---
 
 # Semana 5
 
@@ -183,25 +183,39 @@ El equipo se encuentra en plazo y con un avance importante gracias al **primer p
 
 | Compromiso | Responsable | Estado | Evidencia |
 |---|---|---|---|
-| | | | |
+| Investigar y solucionar el problema de instalación de la APK en dispositivos Redmi | Equipo Recicla+ | Completado | Se solucionó el problema de instalación. |
+| Probar la aplicación en otros dispositivos Android | Equipo Recicla+ | Completado | Se realizaron testeos en distintos dispositivos Android. |
+| Investigar e implementar la visualización de puntos de reciclaje | Equipo Recicla+ | Pendiente | - - - |
+| Preparar el proyecto para la competencia 4C | Equipo Recicla+ | Completado | Se presentó el proyecto en el 4C. |
+| Continuar preparando la presentación del proyecto y sus funcionalidades | Equipo Recicla+ | Completado | Presentación realizada durante el 4C. |
 
 ## Avances demostrables
 
+Durante esta semana, el equipo logró **solucionar el problema de instalación de la APK en dispositivos Redmi** y completó los **testeos en otros dispositivos Android**, comprobando el correcto funcionamiento de la aplicación.
 
+Además, participamos en el **4C**, donde presentamos Recicla+ frente a tres jueces. La exposición se realizó correctamente y logramos explicar las principales características y objetivos del proyecto.
+
+Como reconocimiento por nuestro desempeño, **los cuatro integrantes que asistimos recibimos un diploma**, destacando nuestra participación durante la instancia.
 
 ## Bloqueos
 
-
+- La participación en el 4C redujo el tiempo disponible para continuar desarrollando nuevas funcionalidades.
+- La implementación de la visualización de los puntos de reciclaje continúa pendiente.
 
 ## Decisiones
 
-
+- Dar por solucionado el problema de instalación de la APK en dispositivos Redmi.
+- Dar por completados los testeos en distintos dispositivos Android.
+- Continuar trabajando en la implementación de los puntos de reciclaje.
+- Utilizar la experiencia obtenida en el 4C para seguir mejorando el proyecto y su presentación.
 
 ## Tareas para la próxima semana
 
 | Tarea | Responsable | Prioridad | Issue | Fecha |
 |---|---|---|---|---|
-| | | | | |
+| Investigar e implementar la visualización de puntos de reciclaje | Equipo Recicla+ | Media | #3 | Próxima semana |
+| Realizar diagrama de flujo general de la aplicación | Equipo Recicla+ | Alta | #5 | Próxima semana |
+| Realizar diagrama de flujo de la base de datos | Equipo Recicla+ | Media | #6 | Próxima semana |
 
 ## Estado del equipo
 
@@ -209,8 +223,11 @@ El equipo se encuentra en plazo y con un avance importante gracias al **primer p
 - Amarillo: riesgo de atraso.
 - Rojo: requiere intervención.
 
-**Estado actual:**
+**Estado actual: 🟢 Verde**
 
+El equipo se encuentra en plazo y con avances importantes. Se **solucionó el problema de instalación en dispositivos Redmi**, se completaron los testeos en otros dispositivos y se tuvo una buena participación en el **4C**, donde los cuatro integrantes asistentes recibieron un diploma de reconocimiento.
+
+El principal pendiente es continuar con la **implementación de los puntos de reciclaje** y seguir mejorando el proyecto.
 
 ---
 
@@ -224,25 +241,37 @@ El equipo se encuentra en plazo y con un avance importante gracias al **primer p
 
 | Compromiso | Responsable | Estado | Evidencia |
 |---|---|---|---|
-| | | | |
+| Investigar e implementar la visualización de puntos de reciclaje | Equipo Recicla+ | En proceso | --- |
+| Realizar diagrama de flujo general de la aplicación | Equipo Recicla+ | Completado | Diagrama realizado y finalizado. |
+| Realizar diagrama de flujo de la base de datos | Equipo Recicla+ | Completado | Diagrama realizado y finalizado. |
 
 ## Avances demostrables
 
+Durante esta semana, el equipo continuó trabajando en la **compatibilidad de la aplicación con dispositivos Redmi más antiguos**, logrando solucionar varios errores que surgieron a raíz del cambio.
 
+Además, se realizaron con éxito el **diagrama de flujo general de la aplicación** y el **diagrama de flujo de la base de datos**, permitiendo representar de mejor manera el funcionamiento y estructura del proyecto.
+
+También se comenzó a preparar la participación en el concurso **Los Creadores**, para el cual debemos realizar un video explicando y presentando Recicla+. Esta actividad será una de las principales prioridades del equipo durante las próximas semanas.
 
 ## Bloqueos
 
-
+- La implementación de la visualización de los puntos de reciclaje continúa en proceso.
+- Surgieron algunos errores de compatibilidad al solucionar el problema que había al instalar la APK en dispositivos Redmi antiguos, los cuales requirieron tiempo adicional para ser solucionados.
+- La preparación del video para Los Creadores requiere organizar el contenido, coordinar la participación de los integrantes y elaborar un guion.
 
 ## Decisiones
 
-
+- Continuar mejorando la compatibilidad de Recicla+ con distintos dispositivos Android.
+- Mantener los diagramas de flujo como apoyo para documentar el funcionamiento de la aplicación.
+- Dar **prioridad alta a la preparación y realización del video para el concurso Los Creadores**.
+- Continuar trabajando en la visualización de los puntos de reciclaje.
 
 ## Tareas para la próxima semana
 
 | Tarea | Responsable | Prioridad | Issue | Fecha |
 |---|---|---|---|---|
-| | | | | |
+| Preparar y realizar el video de presentación de Recicla+ para el concurso Los Creadores | Equipo Recicla+ | Alta | #7 | Próxima semana |
+| Finalizar la implementación de la visualización de puntos de reciclaje | Equipo Recicla+ | Media | #3 | Próxima semana |
 
 ## Estado del equipo
 
@@ -250,7 +279,11 @@ El equipo se encuentra en plazo y con un avance importante gracias al **primer p
 - Amarillo: riesgo de atraso.
 - Rojo: requiere intervención.
 
-**Estado actual:**
+**Estado actual: 🟢 Verde**
+
+El equipo se encuentra en plazo y continúa avanzando de manera positiva. Se lograron **corregir varios errores de compatibilidad con dispositivos Redmi antiguos** y se completaron con éxito los **diagramas de flujo de la aplicación y de la base de datos**.
+
+Para la próxima semana, la principal prioridad será **preparar el video de presentación para el concurso Los Creadores**, mientras se continúa trabajando en los puntos de reciclaje y en la estabilidad de la aplicación.
 
 
 ---
