@@ -1,4 +1,4 @@
-# Informe semanal — Recicla+
+# Informe semanal — Recicla+ 
 
 ## Semana 1 y 2
 
