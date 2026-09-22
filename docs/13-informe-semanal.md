@@ -298,25 +298,34 @@ Para la próxima semana, la principal prioridad será **preparar el video de pre
 
 | Compromiso | Responsable | Estado | Evidencia |
 |---|---|---|---|
-| | | | |
+| Preparar y realizar el video de presentación de Recicla+ para el concurso Los Creadores | Equipo Recicla+ | Completado | (Subido en YouTube) |
+| Finalizar la implementación de la visualización de puntos de reciclaje | Equipo Recicla+ | Pendiente | - - - |
 
 ## Avances demostrables
+Durante la semana 7, el equipo realizó una **reunión de coordinación con los cinco integrantes del proyecto**, con el objetivo de revisar el estado actual de Recicla+ y asegurar que todos los integrantes estuvieran al tanto de las tareas realizadas y de las próximas metas del proyecto.
 
+Durante la reunión se revisaron las **tareas pendientes y los objetivos futuros**, definiendo con mayor claridad las responsabilidades de cada integrante. Cada miembro organizó su propia **lista de tareas**, especificando las actividades que debe realizar y los objetivos que deberá cumplir en las siguientes etapas del proyecto.
 
+Esta organización permitió distribuir mejor el trabajo dentro del equipo, evitar confusiones sobre las responsabilidades y establecer una planificación más clara para continuar con el desarrollo de Recicla+.
 
 ## Bloqueos
 
-
+- No se presentaron bloqueos importantes durante la semana. Se identificaron tareas pendientes que deberán ser abordadas en las siguientes semanas.
 
 ## Decisiones
 
-
+- Mantener una lista de tareas individual para cada integrante del equipo.
+- Definir claramente las responsabilidades de cada uno de los cinco integrantes.
+- Revisar periódicamente el avance de las tareas para mantener al equipo coordinado.
+- Establecer las próximas metas del proyecto de acuerdo con las tareas asignadas.
 
 ## Tareas para la próxima semana
 
 | Tarea | Responsable | Prioridad | Issue | Fecha |
 |---|---|---|---|---|
-| | | | | |
+| Finalizar la implementación de la visualización de puntos de reciclaje | Equipo Recicla+ | Media | #3 | Próxima semana |
+| Participar en pitch de 4C Iquique | Elian y Gabriel | Alta | #5 | Próxima semana |
+
 
 ## Estado del equipo
 
@@ -324,8 +333,9 @@ Para la próxima semana, la principal prioridad será **preparar el video de pre
 - Amarillo: riesgo de atraso.
 - Rojo: requiere intervención.
 
-**Estado actual:**
+**Estado actual: 🟢 Verde**
 
+El equipo se encuentra organizado y coordinado. Durante esta semana se aclararon las responsabilidades de cada integrante y se establecieron las tareas y metas que deberán cumplirse en las próximas etapas del proyecto, para evitar confusiones y aumentar la productividad.
 
 ---
 
