@@ -336,7 +336,7 @@ Esta organización permitió distribuir mejor el trabajo dentro del equipo, evit
 **Estado actual: 🟢 Verde**
 
 El equipo se encuentra organizado y coordinado. Durante esta semana se aclararon las responsabilidades de cada integrante y se establecieron las tareas y metas que deberán cumplirse en las próximas etapas del proyecto, para evitar confusiones y aumentar la productividad.
-
+  
 ---
 
 # Semana 8
@@ -349,25 +349,36 @@ El equipo se encuentra organizado y coordinado. Durante esta semana se aclararon
 
 | Compromiso | Responsable | Estado | Evidencia |
 |---|---|---|---|
-| | | | |
+| Finalizar la implementación de la visualización de puntos de reciclaje | Equipo Recicla+  | Pendiente | - - - |
+| Participar en pitch de 4C Iquique | Equipo Recicla+  | En progreso | - - - |
 
 ## Avances demostrables
+Durante la semana 8, dos integrantes del equipo, Elian y Gabriel, viajaron a Iquique para participar en el **pitch de 4C**, donde presentarán el proyecto Recicla+.
 
+Paralelamente, Renato empezó a trabajar en una **nueva versión mejorada de la inteligencia artificial Teachable Machine**, con el objetivo de mejorar la identificación de residuos. Una vez finalizada, esta nueva versión de la IA será integrada a la aplicación por Jorge, buscando que la apliación se comience a utilizar dentro del establecimiento. 
 
+Además, Benja creará las ramas **dev, feature y fix** en el repositorio de GitHub, con el propósito de mejorar la organización y el control de los cambios realizados durante el desarrollo.
+
+Finalmente, se realizó el informe semanal que se encontraba pendiente.
 
 ## Bloqueos
-
-
+- La nueva versión de la inteligencia artificial aún se encuentra en desarrollo debido al gran tamaño de las carpetas de imágenes utilizadas para su entrenamiento, lo que provoca largos tiempos de procesamiento al manipular estos archivos en el equipo. 
+- La visualización de los puntos de reciclaje continúa pendiente.
 
 ## Decisiones
-
-
+- Integrar la nueva versión de la IA una vez que Renato finalice su desarrollo.
+- Utilizar las ramas `dev`, `feature` y `fix` para organizar de mejor manera los cambios del proyecto.
+- Continuar trabajando en la implementación de los puntos de reciclaje.
 
 ## Tareas para la próxima semana
 
 | Tarea | Responsable | Prioridad | Issue | Fecha |
 |---|---|---|---|---|
-| | | | | |
+| Finalizar la nueva versión de la IA | Renato | Alta | #6 | Próxima semana |
+| Integrar la nueva versión de la IA a la aplicación | Jorge | Alta | #7 | Próxima semana |
+| Finalizar la implementación de la visualización de puntos de reciclaje| Equipo Recicla+ | Media | #3 | Próxima semana|
+| Participar en el pitch de 4C Iquique | Elian y Gabriel | Alta | #5 | Próxima semana |
+| Crear las nuevas ramas del repositorio para organizar el desarrollo | Benjamín | Alta | #8 | Próxima semana  |
 
 ## Estado del equipo
 
@@ -375,8 +386,8 @@ El equipo se encuentra organizado y coordinado. Durante esta semana se aclararon
 - Amarillo: riesgo de atraso.
 - Rojo: requiere intervención.
 
-**Estado actual:**
-
+**Estado actual: 🟢 Verde**
+El equipo mantiene sus tareas en progreso. Elian y Gabriel se encuentran participando en las actividades relacionadas con el pitch en Iquique, mientras que el resto del equipo continua avanzando en sus respectivas tareas de desarrollo y organización del proyecto.
 
 ---
 
